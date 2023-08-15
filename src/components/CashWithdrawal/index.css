@@ -1,0 +1,77 @@
+/* Write your CSS here */
+.cont-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+.cont-2 {
+  background-size: cover;
+  width: 40vw;
+  border-radius: 10px;
+  background-color: #150b3e;
+  display: flex;
+  flex-direction: column;
+}
+.S {
+  border-radius: 50px;
+  height: 8vh;
+  width: 4vw;
+  background-color: #c7d2fe;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.s {
+  color: #7c3aed;
+}
+.a {
+  display: flex;
+}
+.head {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 20px;
+}
+.rupees {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+.bal {
+  color: #585076;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.cash {
+  color: white;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.cash1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #585076;
+}
+h1 {
+  color: #d4d2db;
+  font-size: 40px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}
+p {
+  color: #c4c4c4;
+  font-size: 30px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}

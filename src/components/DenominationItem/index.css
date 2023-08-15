@@ -1,0 +1,13 @@
+/* Write your CSS here */
+button {
+  height: 6vh;
+  width: 200px;
+  background-color: #585076;
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+  margin: 20px;
+}
+li {
+  list-style: none;
+}
